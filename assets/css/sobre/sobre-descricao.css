@@ -1,0 +1,13 @@
+.sobre__descricao {
+    padding: 2rem;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+}
+
+@media screen and (max-width: 480px) {
+    .sobre__descricao {
+        margin: 0;
+    }
+}

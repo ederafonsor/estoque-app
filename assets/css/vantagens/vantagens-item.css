@@ -1,0 +1,10 @@
+.vantagens__item {
+    font-size: 1.1rem;
+    padding: 1rem;
+}
+
+@media screen and (max-width: 480px) {
+    .vantagens__item {
+        text-align: left;
+    }
+}

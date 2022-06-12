@@ -1,0 +1,8 @@
+.planos__funcionalidade {
+    padding: 2rem;
+    color: #2AA4B9;
+}
+
+.planos__funcionalidade.principal {
+    color: #24292F;
+}
