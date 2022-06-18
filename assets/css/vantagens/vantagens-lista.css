@@ -1,9 +1,0 @@
-.vantagens__lista {
-    margin-left: 25%;
-}
-
-@media screen and (max-width: 480px) {
-    .vantagens__lista {
-        margin: 0;
-    }
-}
