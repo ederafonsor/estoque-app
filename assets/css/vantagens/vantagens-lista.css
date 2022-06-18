@@ -1,9 +1,10 @@
 .vantagens__lista {
-    margin-left: 25%;
+    display: flex;
+    flex-direction: column
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (min-width: 992px) {
     .vantagens__lista {
-        margin: 0;
+        flex-direction: row;
     }
 }
