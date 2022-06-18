@@ -1,10 +1,10 @@
-.planos__lista {
+.vantagens__lista {
     display: flex;
-    flex-direction: column;
+    flex-direction: column
 }
 
 @media screen and (min-width: 992px) {
-    .planos__lista {
+    .vantagens__lista {
         flex-direction: row;
     }
 }
