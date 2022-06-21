@@ -3,8 +3,7 @@
 ## Padrões do projeto
 
 ### Branch
-- Ao desenvolver, criar uma branch herdada de 'develop'
-- Não utilizar letras maiúsculas, acentos e ponto final na nomeação da branch
+- Não utilizar letras maiúsculas, acentos e ponto final na nomeação de novas branches
 
 *Exemplo:* 'ajuste-que-sera-feito'
 
